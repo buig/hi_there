@@ -25,11 +25,15 @@ def agustin():
 def luis():
     print("Buenas tardes banda,soy Luis.")
 
-def Jesus():
+def jesus():
     print("Hey muy buenas tardes a todos, aqui Jimmy")
 
 def sergio():
     print("Hola soy Sergio, :P")
+
+def ivan():
+    print(":)")
+
 
 if __name__ == "__main__":
     print("Say hello to class ")
@@ -42,5 +46,6 @@ if __name__ == "__main__":
     cesar()
     agustin()
     luis()
-    Jesus()
+    jesus()
     sergio()
+    ivan()
