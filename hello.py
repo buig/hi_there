@@ -7,8 +7,12 @@ def yago():
 def isaac():
     print("Hola soy Isaac.")
 
+def maria():
+    print("Hola soy Maria.")
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
     yago()
     isaac()
+    maria()
