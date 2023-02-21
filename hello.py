@@ -37,11 +37,13 @@ def ivan():
 def unai():
     print("Hola soy unai.")
 
+def pablo():
+    print("Hola soy Pablo, un saludo")
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
     yago()
-
     isaac()
     maria()
     alvaro()
@@ -53,3 +55,4 @@ if __name__ == "__main__":
     sergio()
     ivan()
     unai()
+    pablo()
