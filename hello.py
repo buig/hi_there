@@ -4,7 +4,6 @@ def antonio():
 def yago():
     print("Hola soy Pepe, xd.")
 
-
 def isaac():
     print("Hola soy Isaac.")
 
@@ -26,6 +25,9 @@ def agustin():
 def luis():
     print("Buenas tardes banda,soy Luis.")
 
+def Jesus():
+    print("Hey muy buenas tardes a todos, aqui Jimmy")
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
@@ -37,3 +39,5 @@ if __name__ == "__main__":
     cesar()
     agustin()
     luis()
+    Jesus()
+
