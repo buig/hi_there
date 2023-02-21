@@ -28,6 +28,9 @@ def luis():
 def Jesus():
     print("Hey muy buenas tardes a todos, aqui Jimmy")
 
+def sergio():
+    print("Hola soy Sergio, :P")
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
@@ -40,4 +43,4 @@ if __name__ == "__main__":
     agustin()
     luis()
     Jesus()
-
+    sergio()
