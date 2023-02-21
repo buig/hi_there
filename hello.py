@@ -40,6 +40,9 @@ def unai():
 def pablo():
     print("Hola soy Pablo, un saludo")
 
+def rv():
+    print("Soy Ronal")
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
@@ -56,3 +59,4 @@ if __name__ == "__main__":
     ivan()
     unai()
     pablo()
+    rv()
