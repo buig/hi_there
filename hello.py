@@ -42,6 +42,10 @@ def pablo():
 
 def rv():
     print("Soy Ronal")
+=======
+def adrian():
+    print("Hola soy Adrian")
+>>>>>>> edd99aa (adrian)
 
 if __name__ == "__main__":
     print("Say hello to class ")
@@ -60,3 +64,4 @@ if __name__ == "__main__":
     unai()
     pablo()
     rv()
+    adrian()
