@@ -16,6 +16,9 @@ def alvaro():
 def david():
     print("Hola soy David, vivo en tus paredes.")
 
+def cesar():
+    print("Hola soy cesar.")
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
@@ -24,3 +27,4 @@ if __name__ == "__main__":
     maria()
     alvaro()
     david()
+    cesar()
