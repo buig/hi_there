@@ -49,6 +49,10 @@ def adrian():
 def luca():
     print("Hola soy Luca, presente.")
 
+def xisco():
+    print("Hola, soy xisco")
+    
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
@@ -68,3 +72,4 @@ if __name__ == "__main__":
     rv()
     adrian()
     luca()
+    xisco()
